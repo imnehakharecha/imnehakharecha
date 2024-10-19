@@ -1,16 +1,48 @@
-## Hi there 👋
+# Neha Kharecha
 
-<!--
-**imnehakharecha/imnehakharecha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Web Developer | 5 Years Experience | Specialized in WordPress, Webflow, and CMS Management
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I’m Neha Kharecha, a dedicated web developer with 5 years of experience in building dynamic, responsive, and SEO-optimized websites. I specialize in CMS platforms like WordPress, Webflow, and Shopify, delivering high-performance websites with a focus on ADA compliance and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Technical Skill Set
+
+### Frontend Development
+- **Languages & Markup**: HTML, CSS, JavaScript
+- **Frameworks & Libraries**: Tailwind CSS, Bootstrap
+- **Debugging**: Chrome DevTools Extension
+- **Web Builders**: Elementor, Gutenberg, Wix, Squarespace, iFramer
+
+### Content Management Systems (CMS)
+- **Platforms**: WordPress, Webflow, WooCommerce
+- **SEO & Performance**: SEO optimization, ADA compliance, Performance tuning for web standards
+- **CMS Management**: Custom theme development, plugin integration, content migration
+
+### Design & Prototyping Tools
+- **UI/UX Design**: Figma, Adobe XD, Photoshop, Illustration
+- **Prototyping & Wireframing**: Adobe XD, Figma
+
+### Version Control & Collaboration
+- **Version Control**: Git, GitHub
+- **Team Collaboration**: Team management, task prioritization, Git workflows
+
+### Project Management & CRM
+- **Pipedrive**: Integration with CRM systems
+- **Alchemer**: Survey and form management for client data collection
+
+---
+
+## 🚀 What I Do
+
+I build user-friendly and high-performance websites for businesses, focusing on:
+- SEO and performance optimization to boost website rankings and speed.
+- ADA-compliant websites ensuring accessibility for all users.
+- Seamless integration with CMS platforms like WordPress and Webflow.
+- Creating custom e-commerce solutions using WooCommerce and Shopify.
+
+---
+
+### 📫 How to Reach Me
+
+Feel free to connect with me here on GitHub or reach out to collaborate on exciting projects!
