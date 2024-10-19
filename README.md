@@ -12,7 +12,7 @@ Welcome to my GitHub! I’m Neha Kharecha, a dedicated web developer with 5 year
 - **Languages & Markup**: HTML, CSS, JavaScript
 - **Frameworks & Libraries**: Tailwind CSS, Bootstrap
 - **Debugging**: Chrome DevTools Extension
-- **Web Builders**: Elementor, Gutenberg, Wix, Squarespace, iFramer
+- **Web Builders**: Elementor, Webflow, iFramer, Wix, Squarespace
 
 ### Content Management Systems (CMS)
 - **Platforms**: WordPress, Webflow, WooCommerce
