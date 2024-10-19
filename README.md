@@ -2,7 +2,7 @@
 
 ### Web Developer | 5 Years Experience | Specialized in WordPress, Webflow, and CMS Management
 
-Welcome to my GitHub! I’m Neha Kharecha, a dedicated web developer with 5 years of experience in building dynamic, responsive, and SEO-optimized websites. I specialize in CMS platforms like WordPress, Webflow, and Shopify, delivering high-performance websites with a focus on ADA compliance and user experience.
+Welcome to my GitHub! I’m Neha Kharecha, a dedicated web developer with 5 years of experience in building dynamic, responsive, and SEO-optimized websites. I specialize in CMS platforms like WordPress, Webflow, delivering high-performance websites with a focus on ADA compliance and user experience.
 
 ---
 
@@ -39,7 +39,7 @@ I build user-friendly and high-performance websites for businesses, focusing on:
 - SEO and performance optimization to boost website rankings and speed.
 - ADA-compliant websites ensuring accessibility for all users.
 - Seamless integration with CMS platforms like WordPress and Webflow.
-- Creating custom e-commerce solutions using WooCommerce and Shopify.
+- Creating custom e-commerce solutions using WooCommerce.
 
 ---
 
